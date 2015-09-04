@@ -1,0 +1,5 @@
+/gen
+/bin
+.settings
+build.xml
+local.properties
